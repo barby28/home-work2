@@ -1,0 +1,70 @@
+body{
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    height: 1500px;
+}
+
+
+
+.body{
+    width: 1500px;
+    height: 100%;
+    margin: 0px;
+
+
+
+}
+
+.head{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    padding: 50px 0px;
+
+}
+table{
+    
+    background-color: yellow;
+    width: 10%;
+}
+.center{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.hard{
+    padding: 1%;
+    width:88% ;
+    background-color: darkolivegreen;
+    height: 80%;
+
+}
+.photo{
+    width: 100%;
+    height: 400px;
+}
+.articles{
+  
+  display: flex;
+    justify-content: space-between;
+}
+p{
+    text-align: center;
+    color: white;
+    padding: 10px;
+    font-size: 30px;
+}
+.div{
+    background-color: black;
+    padding: 140px;
+    margin: 15px 0px ;
+}
+.and{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding:10px ;
+    font-size: 30px;
+}
